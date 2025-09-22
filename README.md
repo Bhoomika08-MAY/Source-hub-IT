@@ -16,7 +16,7 @@ This app allows educators and reviewers to upload quiz responses in CSV format a
 
 ## 🎬 Demo
 
-📥 [Click here to download the demo video](assets/demo1.mp4)
+📥 [Click to watch the demo](https://raw.githubusercontent.com/Bhoomika08-MAY/Source-hub-IT/main/assets/demo1.mp4)
 
 > This video shows how the AI Quiz Evaluator works — uploading CSVs, evaluating answers, and generating graded output.
 
