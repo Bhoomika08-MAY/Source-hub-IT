@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Source-hub-IT 🎓  
 **AI Quiz Evaluator** — A Streamlit-powered app for automated grading and feedback.
 
@@ -36,3 +37,7 @@ AI-QUIZ-EVALUATOR/
 ├── quiz_data.csv          # Input file with raw quiz questions and answers
 ├── README.md              # Project overview and usage instructions
 ├── requirements.txt       # Python dependencies for setup
+=======
+# Source-hub-IT
+AI-Quiz evaluator
+>>>>>>> 93757c9d38ead024f867757f20397044dbdcfbc8
