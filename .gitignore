@@ -17,9 +17,6 @@ env/
 .DS_Store
 Thumbs.db
 
-# Data files
-*.csv
-*.xlsx
 
 # Environment variables
 .env
